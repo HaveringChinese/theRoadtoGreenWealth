@@ -1,0 +1,8 @@
+Objections:
+- click button, new objection is generated randomly from selection
+
+Selling-aid:
+- displays quotes and references with links discussing each type of inflation and other projections
+- displays historical prices for electricity and projects future prices
+- crunches numbers rapidly, saving time in the sales sit 
+- displays money saved in terms of its power to make other more important purchases
